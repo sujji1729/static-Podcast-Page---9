@@ -1,0 +1,98 @@
+
+.bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    height: 50vh;
+    background-size: cover;
+    padding: 20px;
+}
+
+.podcasts-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.imagee {
+    height: 120px;
+    width: 160px;
+}
+
+.heading {
+    color: #151765;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.discription {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    text-align: center;
+}
+
+.set1 {
+    margin: 10px;
+    margin-top: 40px;
+}
+
+.set2 {
+    margin: 10px;
+}
+
+.bg-containers {
+    background-color: #151765;
+    padding: 25px;
+}
+
+.individual-discription {
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.individual-heading {
+    color: #ffffff;
+    font-size: 22px;
+}
+
+.divv {
+    margin-left: 10px;
+}
+
+.individual-headingg {
+    color: #151765;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.individual-discriptionn {
+    color: #5a7184;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.container {
+    padding: 20px;
+}
+
+.button {
+    text-align: right;
+
+}
+
+.button-style {
+    background-color: #151765;
+    border-radius: 10px;
+    color: #ffffff;
+    font-family: "Roboto";
+    width: 80px;
+    height: 24px;
+    text-align: center;
+    border-style: solid;
+    border-width: 0px;
+    font-size: 12px;
+}
